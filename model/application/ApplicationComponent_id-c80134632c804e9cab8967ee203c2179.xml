@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{name}"
+    id="id-c80134632c804e9cab8967ee203c2179"
+    documentation="{description}">
+  <properties
+      key="stereotype"
+      value="Container"/>
+  <properties
+      key="technology"
+      value="{techno}"/>
+</archimate:ApplicationComponent>

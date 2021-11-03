@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HTTPS] POST new poll"
+    id="id-1cb39d5a3d3340afa6a8e51a9b0047ac">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49797aaca5234515a3bd397045e7309f.xml#id-49797aaca5234515a3bd397045e7309f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c5c3d973bf140cfa03d56785417029c.xml#id-8c5c3d973bf140cfa03d56785417029c"/>
+</archimate:TriggeringRelationship>

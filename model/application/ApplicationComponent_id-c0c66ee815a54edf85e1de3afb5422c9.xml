@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{name}"
+    id="id-c0c66ee815a54edf85e1de3afb5422c9"
+    documentation="{description}">
+  <properties
+      key="stereotype"
+      value="Software System"/>
+</archimate:ApplicationComponent>

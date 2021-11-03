@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Answer Polls"
+    id="id-2a0783d37f384f9c96af350d96e17561">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-683b36f4a7214913832e9bfc9087761a.xml#id-683b36f4a7214913832e9bfc9087761a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11afe4b186d24270bfbb86882b93b470.xml#id-11afe4b186d24270bfbb86882b93b470"/>
+</archimate:TriggeringRelationship>

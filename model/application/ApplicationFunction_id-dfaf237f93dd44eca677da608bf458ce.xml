@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poll ORM "
+    id="id-dfaf237f93dd44eca677da608bf458ce"
+    documentation="Handles model deficntion and &#xA;Communication with the database">
+  <properties
+      key="stereotype"
+      value="Component"/>
+  <properties
+      key="type"
+      value="SQLAlchemy"/>
+</archimate:ApplicationFunction>

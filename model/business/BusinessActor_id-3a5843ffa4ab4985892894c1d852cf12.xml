@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Polls manager"
+    id="id-3a5843ffa4ab4985892894c1d852cf12">
+  <properties
+      key="stereotype"
+      value="Person"/>
+</archimate:BusinessActor>

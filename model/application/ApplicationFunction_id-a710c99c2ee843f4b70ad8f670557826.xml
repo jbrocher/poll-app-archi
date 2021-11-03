@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poll Creation View"
+    id="id-a710c99c2ee843f4b70ad8f670557826"
+    documentation="Endpoint for posting a View">
+  <properties
+      key="stereotype"
+      value="Component"/>
+  <properties
+      key="type"
+      value="Path Operation"/>
+</archimate:ApplicationFunction>

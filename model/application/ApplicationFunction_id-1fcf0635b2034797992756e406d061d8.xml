@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Session_factory"
+    id="id-1fcf0635b2034797992756e406d061d8"
+    documentation="Generate a Shared Database Session&#xA;">
+  <properties
+      key="stereotype"
+      value="Component"/>
+  <properties
+      key="type"
+      value="SQLAlchemy"/>
+</archimate:ApplicationFunction>

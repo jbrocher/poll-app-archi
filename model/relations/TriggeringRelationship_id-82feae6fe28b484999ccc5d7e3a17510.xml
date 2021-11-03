@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ODBC] Read / Write"
+    id="id-82feae6fe28b484999ccc5d7e3a17510">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c5c3d973bf140cfa03d56785417029c.xml#id-8c5c3d973bf140cfa03d56785417029c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2ac71ff3cb2347c995685b2001d4bb8d.xml#id-2ac71ff3cb2347c995685b2001d4bb8d"/>
+</archimate:TriggeringRelationship>

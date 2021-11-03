@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{Name}"
+    id="id-0c07551d49534265b5f484448e95db25"
+    documentation="{Documentation}">
+  <properties
+      key="stereotype"
+      value="Component"/>
+  <properties
+      key="type"
+      value="{type}"/>
+</archimate:ApplicationFunction>

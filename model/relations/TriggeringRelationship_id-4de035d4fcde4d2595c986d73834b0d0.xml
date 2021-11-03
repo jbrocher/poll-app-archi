@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HTTPS] GET Poll"
+    id="id-4de035d4fcde4d2595c986d73834b0d0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-487ddcfd54dd4cbd8526f42a7e14e545.xml#id-487ddcfd54dd4cbd8526f42a7e14e545"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c5c3d973bf140cfa03d56785417029c.xml#id-8c5c3d973bf140cfa03d56785417029c"/>
+</archimate:TriggeringRelationship>

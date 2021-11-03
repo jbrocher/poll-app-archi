@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUD"
+    id="id-2b4968b1d5ff42e6ae8afa3f1a5f1174"
+    documentation="{Documentation}">
+  <properties
+      key="stereotype"
+      value="Component"/>
+  <properties
+      key="type"
+      value="Functionnal"/>
+</archimate:ApplicationFunction>

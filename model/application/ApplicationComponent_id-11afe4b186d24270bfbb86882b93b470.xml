@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poll App"
+    id="id-11afe4b186d24270bfbb86882b93b470"
+    documentation="A simple Poll App">
+  <properties
+      key="stereotype"
+      value="Software System"/>
+</archimate:ApplicationComponent>

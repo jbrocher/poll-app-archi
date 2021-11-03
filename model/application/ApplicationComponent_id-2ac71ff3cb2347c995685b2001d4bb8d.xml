@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database"
+    id="id-2ac71ff3cb2347c995685b2001d4bb8d"
+    documentation="Database for storing the polls&#xA;">
+  <properties
+      key="stereotype"
+      value="Container"/>
+  <properties
+      key="technology"
+      value="Postgres"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Polls"
+    id="id-db17f035b2104d44a3d1d93b7e2b829d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3a5843ffa4ab4985892894c1d852cf12.xml#id-3a5843ffa4ab4985892894c1d852cf12"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c3465a3c8d0d48edaef935e13c61845f.xml#id-c3465a3c8d0d48edaef935e13c61845f"/>
+</archimate:TriggeringRelationship>

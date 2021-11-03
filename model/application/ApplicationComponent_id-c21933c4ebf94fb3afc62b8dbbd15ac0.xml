@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stats App"
+    id="id-c21933c4ebf94fb3afc62b8dbbd15ac0"
+    documentation="Compute Statistics and &#xA;Display dashboards&#xA;">
+  <properties
+      key="stereotype"
+      value="Software System"/>
+</archimate:ApplicationComponent>

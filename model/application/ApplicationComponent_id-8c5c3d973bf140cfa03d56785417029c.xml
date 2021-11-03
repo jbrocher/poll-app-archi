@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poll API"
+    id="id-8c5c3d973bf140cfa03d56785417029c"
+    documentation="The Main Poll API">
+  <properties
+      key="stereotype"
+      value="Container"/>
+  <properties
+      key="technology"
+      value="FastAPI"/>
+</archimate:ApplicationComponent>

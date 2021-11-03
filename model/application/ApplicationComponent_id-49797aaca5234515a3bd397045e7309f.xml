@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration UI"
+    id="id-49797aaca5234515a3bd397045e7309f"
+    documentation="An SPA for adminstrating the polls">
+  <properties
+      key="stereotype"
+      value="Container"/>
+  <properties
+      key="technology"
+      value="react-admin"/>
+</archimate:ApplicationComponent>

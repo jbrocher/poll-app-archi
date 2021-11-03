@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pollee"
+    id="id-683b36f4a7214913832e9bfc9087761a"
+    documentation="Person that answers Polls&#xA;">
+  <properties
+      key="stereotype"
+      value="Person"/>
+</archimate:BusinessActor>
